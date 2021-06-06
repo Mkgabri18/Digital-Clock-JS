@@ -1,0 +1,17 @@
+body {
+  height: 100vh;
+  background: #000;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "VT323", monospace;
+}
+
+.clock {
+  font-size: 5rem;
+  color: royalblue;
+}
+.clock:hover {
+  text-shadow: 0 0 4px #02c4ff;
+}
